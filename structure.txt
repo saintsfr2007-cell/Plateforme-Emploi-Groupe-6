@@ -1,0 +1,12 @@
+Dossiers à créer :
+- config/db.php
+- assets/css/style.css
+- assets/js/script.js
+- pages/auth/login.php
+- pages/auth/register.php
+- pages/candidat/dashboard.php
+- pages/recruteur/offres.php
+- includes/header.php
+- uploads/
+- docs/
+- database/emploi.sql
